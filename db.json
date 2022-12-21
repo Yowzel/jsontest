@@ -35,6 +35,18 @@
       "class": "a1",
       "priceper": 30,
       "exitval": 6318756
+    },
+    {
+      "id": 7,
+      "class": "new",
+      "priceper": 7,
+      "exitval": 5135167
+    },
+    {
+      "id": 8,
+      "class": "new",
+      "priceper": 18,
+      "exitval": 8342151
     }
   ],
   "comments": [
