@@ -2,15 +2,21 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "class": "common",
+      "priceper": 10,
+      "exitval": 1000
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "class": "series a perferred",
+      "priceper": 12,
+      "exitval": 163673
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "class": "series a1 preferred",
+      "priceper": 15,
+      "exitval": 1043154
     }
   ],
   "comments": [
