@@ -8,13 +8,13 @@
     },
     {
       "id": 2,
-      "class": "series a perferred",
+      "class": "a",
       "priceper": 12,
       "exitval": 163673
     },
     {
       "id": 3,
-      "class": "series a1 preferred",
+      "class": "a1",
       "priceper": 15,
       "exitval": 1043154
     },
@@ -26,13 +26,13 @@
     },
     {
       "id": 5,
-      "class": "series a preferred",
+      "class": "a",
       "priceper": 16,
       "exitval": 4236871
     },
     {
       "id": 6,
-      "class": "series a1 preferred",
+      "class": "a1",
       "priceper": 30,
       "exitval": 6318756
     }
