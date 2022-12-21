@@ -17,6 +17,24 @@
       "class": "series a1 preferred",
       "priceper": 15,
       "exitval": 1043154
+    },
+    {
+      "id": 4,
+      "class": "common",
+      "priceper": 20,
+      "exitval": 648201
+    },
+    {
+      "id": 5,
+      "class": "series a preferred",
+      "priceper": 16,
+      "exitval": 4236871
+    },
+    {
+      "id": 6,
+      "class": "series a1 preferred",
+      "priceper": 30,
+      "exitval": 6318756
     }
   ],
   "comments": [
