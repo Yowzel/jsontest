@@ -1,9 +1,11 @@
 {
-  "stocks": [
+  "posts": [
     {
-      "class": "common",
-      "priceper": 10,
-      "exitval": 1000000
+      "id": 1,
+      "title": "hello"
     }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
