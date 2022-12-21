@@ -2,26 +2,26 @@
 	{
 		class: : "common",
 		pricepershare: 12,
-    exitvaluation: 1000000
+    		exitvaluation: 1000000
 	},
-  {
+  	{
 		class: : "series a preferred",
 		pricepershare: 11,
-    exitvaluation: 142362
+  		  exitvaluation: 142362
 	},
-  {
+  	{
 		class: : "series a1 preferred",
 		pricepershare: 6,
-    exitvaluation: 100735473
+   		 exitvaluation: 100735473
 	},
-  {
+  	{
 		class: : "common",
 		pricepershare: 1,
-    exitvaluation: 10342525
+   		 exitvaluation: 10342525
 	},
-  {
+  	{
 		class: : "series a preferred",
 		pricepershare: 20,
-    exitvaluation: 1005343
+   		 exitvaluation: 1005343
 	},
 ]
